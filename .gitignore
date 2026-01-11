@@ -19715,3 +19715,5 @@
 /node_modules/zustand/vanilla.d.ts
 /node_modules/zustand/vanilla.js
 /node_modules/.package-lock.json
+config.bat
+node_modules
